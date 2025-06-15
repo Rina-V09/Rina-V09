@@ -7,5 +7,5 @@
 🔧 **Tech Stack:** Java | Python | HTML/CSS | MySQL | Git & GitHub  
 📈 Solved 200+ problems on **LeetCode**  
 🌱 Open to **internships** and **entry-level roles** in tech  
-🔗 [LinkedIn](https://www.linkedin.com/in/rina-508462249/) | [Portfolio]((https://rina-v09.github.io/MYPORTFOLIO/))
+🔗 [LinkedIn](https://www.linkedin.com/in/rina-508462249/)
 
