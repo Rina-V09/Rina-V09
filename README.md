@@ -60,7 +60,7 @@
 ---
 
 ## 🐍 Contribution Snake
-![GitHub Snake Animation](https://github.com/Rina-V09/Rina-V09/blob/output/github-contribution-grid-snake.svg)
+![GitHub Snake Animation](https://raw.githubusercontent.com/Rina-V09/Rina-V09/output/github-contribution-grid-snake.svg)
 
 ---
 
