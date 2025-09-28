@@ -6,13 +6,23 @@
 📈 Solved 400+ problems on **LeetCode**  
 🌱 Open to **internships** and **entry-level roles** in tech  
 
+🔗 [LinkedIn](https://www.linkedin.com/in/rina-508462249/)
+
 ---
 
-## 📊 GitHub Stats
+## 📊 Most Used Languages
 <p align="center">
-  <img src="03825145-1937-4ba7-8ce5-3494e1241276.png" alt="GitHub Stats" width="500"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rina-V09&layout=compact&theme=dark&hide_border=true" />
+</p>
+
+## ⚡ GitHub Stats
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Rina-V09&show_icons=true&theme=dark&hide_border=true" />
+</p>
+
+## 🔥 Streak Stats
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Rina-V09&theme=dark&hide_border=true" />
 </p>
 
 ---
-
-🔗 [LinkedIn](https://www.linkedin.com/in/rina-508462249/)
