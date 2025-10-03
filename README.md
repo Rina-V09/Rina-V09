@@ -29,9 +29,8 @@
 ---
 
 ## 🚀 Featured Projects
-- [🌐 Portfolio Website](https://github.com/Rina-V09/portfolio)  
-- [🤖 Machine Learning Model](https://github.com/Rina-V09/ml-project)  
-- [🛠️ Full-Stack Web App](https://github.com/Rina-V09/fullstack-app)  
+- [🌐 Portfolio Website](https://rina-v09.github.io/MYPORTFOLIO/) 
+- [🤖 Machine Learning Model](https://github.com/Rina-V09/Employee-Income-Predictor)
 
 ---
 
@@ -56,11 +55,6 @@
 <p align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=Rina-V09&theme=onedark&row=1&column=6" alt="GitHub Trophies"/>
 </p>
-
----
-
-## 🐍 Contribution Snake
-![GitHub Snake Animation](https://raw.githubusercontent.com/Rina-V09/Rina-V09/output/github-contribution-grid-snake.svg)
 
 ---
 
